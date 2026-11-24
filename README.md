@@ -27,3 +27,6 @@ Dashboard interactivo construido desde cero en **Looker Studio** para el proyect
 - Enlace a este repositorio en GitHub.
 - Video de demostración del dashboard.
 - Diseño de póster digital del proyecto.
+## Enlaces y Evidencias
+- **Dashboard interactivo (Looker Studio):** [Ver panel Talento Perú IA](PEGA_AQUI_TU_ENLACE_DE_LOOKER_STUDIO)
+- **Captura del dashboard:** `dashboard/dashboard.png`
